@@ -1,2 +1,2 @@
 console.log("my app");
-console.log("minor change");
+console.log("minor changes");
