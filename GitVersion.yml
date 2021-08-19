@@ -1,4 +1,5 @@
 mode: ContinuousDeployment
+continuous-delivery-fallback-tag: 'rc'
 branches:
   main:
     increment: Minor
